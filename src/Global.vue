@@ -1,6 +1,6 @@
 <script>
   const server_config = {
-    url: 'http://localhost:8080'
+    url: 'http://localhost:8081'
   };
   export default {
     server_config
